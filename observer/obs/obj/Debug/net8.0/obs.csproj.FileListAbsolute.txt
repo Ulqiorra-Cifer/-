@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/obs.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/obs.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/obs.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/obs.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/observer/obs/bin/Debug/net8.0/obs
+/home/ayat/Desktop/FirstProject/observer/obs/bin/Debug/net8.0/obs.deps.json
+/home/ayat/Desktop/FirstProject/observer/obs/bin/Debug/net8.0/obs.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/observer/obs/bin/Debug/net8.0/obs.dll
+/home/ayat/Desktop/FirstProject/observer/obs/bin/Debug/net8.0/obs.pdb
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/obs.dll
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/refint/obs.dll
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/obs.pdb
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/obs.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/observer/obs/obj/Debug/net8.0/ref/obs.dll

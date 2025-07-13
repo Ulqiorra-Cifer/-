@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/themes/bin/Debug/net8.0/themes
+/home/ayat/Desktop/FirstProject/themes/bin/Debug/net8.0/themes.deps.json
+/home/ayat/Desktop/FirstProject/themes/bin/Debug/net8.0/themes.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/themes/bin/Debug/net8.0/themes.dll
+/home/ayat/Desktop/FirstProject/themes/bin/Debug/net8.0/themes.pdb
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/themes.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/themes.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/themes.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/themes.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/themes.dll
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/refint/themes.dll
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/themes.pdb
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/themes.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/themes/obj/Debug/net8.0/ref/themes.dll

@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/potok/pot/bin/Debug/net8.0/pot
+/home/ayat/Desktop/FirstProject/potok/pot/bin/Debug/net8.0/pot.deps.json
+/home/ayat/Desktop/FirstProject/potok/pot/bin/Debug/net8.0/pot.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/potok/pot/bin/Debug/net8.0/pot.dll
+/home/ayat/Desktop/FirstProject/potok/pot/bin/Debug/net8.0/pot.pdb
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/pot.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/pot.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/pot.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/pot.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/pot.dll
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/refint/pot.dll
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/pot.pdb
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/pot.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/potok/pot/obj/Debug/net8.0/ref/pot.dll

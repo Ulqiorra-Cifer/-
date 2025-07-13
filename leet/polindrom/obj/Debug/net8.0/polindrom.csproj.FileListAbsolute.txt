@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/polindrom.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/polindrom.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/polindrom.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/polindrom.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/leet/polindrom/bin/Debug/net8.0/polindrom
+/home/ayat/Desktop/FirstProject/leet/polindrom/bin/Debug/net8.0/polindrom.deps.json
+/home/ayat/Desktop/FirstProject/leet/polindrom/bin/Debug/net8.0/polindrom.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/leet/polindrom/bin/Debug/net8.0/polindrom.dll
+/home/ayat/Desktop/FirstProject/leet/polindrom/bin/Debug/net8.0/polindrom.pdb
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/polindrom.dll
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/refint/polindrom.dll
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/polindrom.pdb
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/polindrom.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/leet/polindrom/obj/Debug/net8.0/ref/polindrom.dll
