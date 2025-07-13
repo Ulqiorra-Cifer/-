@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/exam/tasks/bin/Debug/net8.0/tasks
+/home/ayat/Desktop/FirstProject/exam/tasks/bin/Debug/net8.0/tasks.deps.json
+/home/ayat/Desktop/FirstProject/exam/tasks/bin/Debug/net8.0/tasks.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/exam/tasks/bin/Debug/net8.0/tasks.dll
+/home/ayat/Desktop/FirstProject/exam/tasks/bin/Debug/net8.0/tasks.pdb
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/tasks.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/tasks.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/tasks.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/tasks.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/tasks.dll
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/refint/tasks.dll
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/tasks.pdb
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/tasks.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/exam/tasks/obj/Debug/net8.0/ref/tasks.dll

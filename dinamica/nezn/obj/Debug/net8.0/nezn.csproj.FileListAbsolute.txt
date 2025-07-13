@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/nezn.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/nezn.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/nezn.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/nezn.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/dinamica/nezn/bin/Debug/net8.0/nezn
+/home/ayat/Desktop/FirstProject/dinamica/nezn/bin/Debug/net8.0/nezn.deps.json
+/home/ayat/Desktop/FirstProject/dinamica/nezn/bin/Debug/net8.0/nezn.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/dinamica/nezn/bin/Debug/net8.0/nezn.dll
+/home/ayat/Desktop/FirstProject/dinamica/nezn/bin/Debug/net8.0/nezn.pdb
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/nezn.dll
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/refint/nezn.dll
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/nezn.pdb
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/nezn.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/dinamica/nezn/obj/Debug/net8.0/ref/nezn.dll

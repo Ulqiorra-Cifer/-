@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/getset/getset/bin/Debug/net8.0/getset
+/home/ayat/Desktop/FirstProject/getset/getset/bin/Debug/net8.0/getset.deps.json
+/home/ayat/Desktop/FirstProject/getset/getset/bin/Debug/net8.0/getset.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/getset/getset/bin/Debug/net8.0/getset.dll
+/home/ayat/Desktop/FirstProject/getset/getset/bin/Debug/net8.0/getset.pdb
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/getset.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/getset.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/getset.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/getset.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/getset.dll
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/refint/getset.dll
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/getset.pdb
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/getset.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/getset/getset/obj/Debug/net8.0/ref/getset.dll

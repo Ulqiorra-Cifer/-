@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/factory/factory/bin/Debug/net8.0/factory
+/home/ayat/Desktop/FirstProject/factory/factory/bin/Debug/net8.0/factory.deps.json
+/home/ayat/Desktop/FirstProject/factory/factory/bin/Debug/net8.0/factory.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/factory/factory/bin/Debug/net8.0/factory.dll
+/home/ayat/Desktop/FirstProject/factory/factory/bin/Debug/net8.0/factory.pdb
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/factory.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/factory.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/factory.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/factory.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/factory.dll
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/refint/factory.dll
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/factory.pdb
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/factory.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/factory/factory/obj/Debug/net8.0/ref/factory.dll
