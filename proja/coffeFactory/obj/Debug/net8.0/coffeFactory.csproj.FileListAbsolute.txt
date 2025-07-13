@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/coffeFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/coffeFactory.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/coffeFactory.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/coffeFactory.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/bin/Debug/net8.0/coffeFactory
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/bin/Debug/net8.0/coffeFactory.deps.json
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/bin/Debug/net8.0/coffeFactory.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/bin/Debug/net8.0/coffeFactory.dll
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/bin/Debug/net8.0/coffeFactory.pdb
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/coffeFactory.dll
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/refint/coffeFactory.dll
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/coffeFactory.pdb
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/coffeFactory.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/proja/coffeFactory/obj/Debug/net8.0/ref/coffeFactory.dll

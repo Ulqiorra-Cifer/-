@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/interfaces/inters/bin/Debug/net8.0/inters
+/home/ayat/Desktop/FirstProject/interfaces/inters/bin/Debug/net8.0/inters.deps.json
+/home/ayat/Desktop/FirstProject/interfaces/inters/bin/Debug/net8.0/inters.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/interfaces/inters/bin/Debug/net8.0/inters.dll
+/home/ayat/Desktop/FirstProject/interfaces/inters/bin/Debug/net8.0/inters.pdb
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/inters.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/inters.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/inters.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/inters.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/inters.dll
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/refint/inters.dll
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/inters.pdb
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/inters.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/interfaces/inters/obj/Debug/net8.0/ref/inters.dll

@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/attraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/attraction.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/attraction.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/attraction.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/proja/attraction/bin/Debug/net8.0/attraction
+/home/ayat/Desktop/FirstProject/proja/attraction/bin/Debug/net8.0/attraction.deps.json
+/home/ayat/Desktop/FirstProject/proja/attraction/bin/Debug/net8.0/attraction.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/proja/attraction/bin/Debug/net8.0/attraction.dll
+/home/ayat/Desktop/FirstProject/proja/attraction/bin/Debug/net8.0/attraction.pdb
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/attraction.dll
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/refint/attraction.dll
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/attraction.pdb
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/attraction.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/proja/attraction/obj/Debug/net8.0/ref/attraction.dll

@@ -1,0 +1,14 @@
+/home/ayat/Desktop/FirstProject/prototype/proto/bin/Debug/net8.0/proto
+/home/ayat/Desktop/FirstProject/prototype/proto/bin/Debug/net8.0/proto.deps.json
+/home/ayat/Desktop/FirstProject/prototype/proto/bin/Debug/net8.0/proto.runtimeconfig.json
+/home/ayat/Desktop/FirstProject/prototype/proto/bin/Debug/net8.0/proto.dll
+/home/ayat/Desktop/FirstProject/prototype/proto/bin/Debug/net8.0/proto.pdb
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/proto.GeneratedMSBuildEditorConfig.editorconfig
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/proto.AssemblyInfoInputs.cache
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/proto.AssemblyInfo.cs
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/proto.csproj.CoreCompileInputs.cache
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/proto.dll
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/refint/proto.dll
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/proto.pdb
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/proto.genruntimeconfig.cache
+/home/ayat/Desktop/FirstProject/prototype/proto/obj/Debug/net8.0/ref/proto.dll
