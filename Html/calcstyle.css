@@ -1,0 +1,102 @@
+:root{
+    --scale: 1px;
+    --window-height: calc(322* var(--scale));
+    --window-widht: calc(232* var(--scale));
+    --calculator-border-radius: 10px;   
+}
+
+.macos-top-bar{
+    position:absolute;
+    display: flex;
+    flex-direction: row;
+    left: 6px;
+    top: 6px;
+}
+
+.macos-button{
+    border-radius: 50%;
+    width:10px;
+    height:10px;
+    background-color: aliceblue;
+    margin-right: 5px;
+}
+
+.close-button{
+    background-color: red;
+}
+
+.minimize-button{
+    background-color: orange;
+}
+
+.fullscreen-button{
+    background-color: green;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: transparent;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: relative;
+}
+
+table{
+    table-layout: fixed;
+    width: var(--window-widht);
+}
+
+td{
+    height: calc(var(--window-height)/7);
+    background-color: aliceblue;
+        text-align: center;
+        border: calc(var(--scale)*0.5) solid white;
+        color: azure !important;
+        font-size:calc(22*var(--scale));
+        width: 10px !important;
+}
+
+td:hover{
+    background-color: antiquewhite;
+}
+
+tr:nth-child(2) td{
+    background-color: black !important;
+}
+
+tr:nth-child(2) td:hover{
+    background-color: purple !important;
+}
+
+tr:last-child{
+    background-color: bisque !important;
+}
+
+tr:last-child td:first-child{
+    border-radius: 0 0 0 var(--calculator-border-radius);
+} 
+tr:last-child td:last-child{
+    border-radius: 0 0 var(--calculator-border-radius);
+}
+tr td:last-child:hover{
+    background-color: peachpuff !important;
+}
+
+#display{
+    height:calc(var(--window-height)* 7 / 28 - 2px) !important;
+    text-align: right;
+    background-color: black !important;
+    padding-right: 20px;
+    font-size:calc(56*var(--scale));
+    font-weight: 100;
+    border-radius: var(--calculator-border-radius) var(--calculator-border-radius) 0 0;
+    vertical-align: bottom;
+}
+
+tr:last-child td{
+    height:calc(var(--window-height) / 7 + 2px) !important;
+}
