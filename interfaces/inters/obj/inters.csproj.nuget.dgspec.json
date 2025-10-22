@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ayat/Desktop/FirstProject/interfaces/inters/inters.csproj": {}
+    "/home/ulq/Lessons/interfaces/inters/inters.csproj": {}
   },
   "projects": {
-    "/home/ayat/Desktop/FirstProject/interfaces/inters/inters.csproj": {
+    "/home/ulq/Lessons/interfaces/inters/inters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ayat/Desktop/FirstProject/interfaces/inters/inters.csproj",
+        "projectUniqueName": "/home/ulq/Lessons/interfaces/inters/inters.csproj",
         "projectName": "inters",
-        "projectPath": "/home/ayat/Desktop/FirstProject/interfaces/inters/inters.csproj",
-        "packagesPath": "/home/ayat/.nuget/packages/",
-        "outputPath": "/home/ayat/Desktop/FirstProject/interfaces/inters/obj/",
+        "projectPath": "/home/ulq/Lessons/interfaces/inters/inters.csproj",
+        "packagesPath": "/home/ulq/.nuget/packages/",
+        "outputPath": "/home/ulq/Lessons/interfaces/inters/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ayat/.nuget/NuGet/NuGet.Config"
+          "/home/ulq/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.116/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

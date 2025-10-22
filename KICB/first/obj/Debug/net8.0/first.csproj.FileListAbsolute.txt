@@ -1,0 +1,15 @@
+/home/ulq/Lessons/KICB/first/bin/Debug/net8.0/first
+/home/ulq/Lessons/KICB/first/bin/Debug/net8.0/first.deps.json
+/home/ulq/Lessons/KICB/first/bin/Debug/net8.0/first.runtimeconfig.json
+/home/ulq/Lessons/KICB/first/bin/Debug/net8.0/first.dll
+/home/ulq/Lessons/KICB/first/bin/Debug/net8.0/first.pdb
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/first.GeneratedMSBuildEditorConfig.editorconfig
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/first.AssemblyInfoInputs.cache
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/first.AssemblyInfo.cs
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/first.csproj.CoreCompileInputs.cache
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/first.sourcelink.json
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/first.dll
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/refint/first.dll
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/first.pdb
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/first.genruntimeconfig.cache
+/home/ulq/Lessons/KICB/first/obj/Debug/net8.0/ref/first.dll

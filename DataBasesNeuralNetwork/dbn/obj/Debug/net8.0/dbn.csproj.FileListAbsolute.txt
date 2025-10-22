@@ -1,0 +1,15 @@
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/bin/Debug/net8.0/dbn
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/bin/Debug/net8.0/dbn.deps.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/bin/Debug/net8.0/dbn.runtimeconfig.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/bin/Debug/net8.0/dbn.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/bin/Debug/net8.0/dbn.pdb
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/dbn.GeneratedMSBuildEditorConfig.editorconfig
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/dbn.AssemblyInfoInputs.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/dbn.AssemblyInfo.cs
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/dbn.csproj.CoreCompileInputs.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/dbn.sourcelink.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/dbn.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/refint/dbn.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/dbn.pdb
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/dbn.genruntimeconfig.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/dbn/obj/Debug/net8.0/ref/dbn.dll

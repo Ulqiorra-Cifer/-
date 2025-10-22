@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ayat/Desktop/FirstProject/exam/tasks/tasks.csproj": {}
+    "/home/ulq/Lessons/exam/tasks/tasks.csproj": {}
   },
   "projects": {
-    "/home/ayat/Desktop/FirstProject/exam/tasks/tasks.csproj": {
+    "/home/ulq/Lessons/exam/tasks/tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ayat/Desktop/FirstProject/exam/tasks/tasks.csproj",
+        "projectUniqueName": "/home/ulq/Lessons/exam/tasks/tasks.csproj",
         "projectName": "tasks",
-        "projectPath": "/home/ayat/Desktop/FirstProject/exam/tasks/tasks.csproj",
-        "packagesPath": "/home/ayat/.nuget/packages/",
-        "outputPath": "/home/ayat/Desktop/FirstProject/exam/tasks/obj/",
+        "projectPath": "/home/ulq/Lessons/exam/tasks/tasks.csproj",
+        "packagesPath": "/home/ulq/.nuget/packages/",
+        "outputPath": "/home/ulq/Lessons/exam/tasks/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ayat/.nuget/NuGet/NuGet.Config"
+          "/home/ulq/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.117/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.412/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
