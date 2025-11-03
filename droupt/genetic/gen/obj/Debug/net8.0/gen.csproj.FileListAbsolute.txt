@@ -1,0 +1,15 @@
+/home/ulq/Lessons/droupt/genetic/gen/bin/Debug/net8.0/gen
+/home/ulq/Lessons/droupt/genetic/gen/bin/Debug/net8.0/gen.deps.json
+/home/ulq/Lessons/droupt/genetic/gen/bin/Debug/net8.0/gen.runtimeconfig.json
+/home/ulq/Lessons/droupt/genetic/gen/bin/Debug/net8.0/gen.dll
+/home/ulq/Lessons/droupt/genetic/gen/bin/Debug/net8.0/gen.pdb
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/gen.GeneratedMSBuildEditorConfig.editorconfig
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/gen.AssemblyInfoInputs.cache
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/gen.AssemblyInfo.cs
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/gen.csproj.CoreCompileInputs.cache
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/gen.sourcelink.json
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/gen.dll
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/refint/gen.dll
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/gen.pdb
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/gen.genruntimeconfig.cache
+/home/ulq/Lessons/droupt/genetic/gen/obj/Debug/net8.0/ref/gen.dll

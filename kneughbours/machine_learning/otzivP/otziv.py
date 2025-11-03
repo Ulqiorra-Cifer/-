@@ -38,7 +38,7 @@ def text_to_keys(text):
     return keys
 
 x_trains= np.array([
-    ["отлично классно супер"],
+    ["отлично классно"],
     ["понравилось прекрасно"],
     ["рекомендую удовлетворен"],
     ["плохо ужасно"],
@@ -70,7 +70,7 @@ model.compile(
     metrics=["accuracy"]
 )
 
-model.fit(x_train, y_train, epochs=1500, verbose=1)
+model.fit(x_train, y_train, epochs=100, verbose=1)
 
 for i in range(len(x_train)):
     user_input = np.array(text_to_keys(input()), dtype="float32")

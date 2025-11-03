@@ -50,7 +50,7 @@ class Program
             Convert.ToDecimal(Convert.ToDouble(Console.ReadLine()))
         };
 
-         var result = neural_network.ReLU(nn.forward(inp)[0]);
+         var result = nn.forward(inp)[0];
          Console.WriteLine($"Оценка: {result:F3} → {(result >= 0.5m ? "ON" : "OFF")}");
     }
 
@@ -172,7 +172,7 @@ class neural_network
         }
     }
 
-    static decimal ReLU(decimal x)
+    public static decimal ReLU(decimal x)
     {
         return x > 0 ? x : 0;
     }
