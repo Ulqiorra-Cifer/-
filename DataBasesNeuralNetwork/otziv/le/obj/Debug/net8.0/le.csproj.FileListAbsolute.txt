@@ -1,0 +1,15 @@
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/bin/Debug/net8.0/le
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/bin/Debug/net8.0/le.deps.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/bin/Debug/net8.0/le.runtimeconfig.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/bin/Debug/net8.0/le.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/bin/Debug/net8.0/le.pdb
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/le.GeneratedMSBuildEditorConfig.editorconfig
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/le.AssemblyInfoInputs.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/le.AssemblyInfo.cs
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/le.csproj.CoreCompileInputs.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/le.sourcelink.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/le.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/refint/le.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/le.pdb
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/le.genruntimeconfig.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/otziv/le/obj/Debug/net8.0/ref/le.dll

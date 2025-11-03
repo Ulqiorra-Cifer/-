@@ -1,0 +1,15 @@
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/bin/Debug/net8.0/yo
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/bin/Debug/net8.0/yo.deps.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/bin/Debug/net8.0/yo.runtimeconfig.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/bin/Debug/net8.0/yo.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/bin/Debug/net8.0/yo.pdb
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/yo.GeneratedMSBuildEditorConfig.editorconfig
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/yo.AssemblyInfoInputs.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/yo.AssemblyInfo.cs
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/yo.csproj.CoreCompileInputs.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/yo.sourcelink.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/yo.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/refint/yo.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/yo.pdb
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/yo.genruntimeconfig.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/FootballPSG/yo/obj/Debug/net8.0/ref/yo.dll

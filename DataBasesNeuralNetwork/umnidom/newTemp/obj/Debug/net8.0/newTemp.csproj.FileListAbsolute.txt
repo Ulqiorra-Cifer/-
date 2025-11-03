@@ -1,0 +1,15 @@
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/bin/Debug/net8.0/newTemp
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/bin/Debug/net8.0/newTemp.deps.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/bin/Debug/net8.0/newTemp.runtimeconfig.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/bin/Debug/net8.0/newTemp.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/bin/Debug/net8.0/newTemp.pdb
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/newTemp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/newTemp.AssemblyInfoInputs.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/newTemp.AssemblyInfo.cs
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/newTemp.csproj.CoreCompileInputs.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/newTemp.sourcelink.json
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/newTemp.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/refint/newTemp.dll
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/newTemp.pdb
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/newTemp.genruntimeconfig.cache
+/home/ulq/Lessons/DataBasesNeuralNetwork/umnidom/newTemp/obj/Debug/net8.0/ref/newTemp.dll
